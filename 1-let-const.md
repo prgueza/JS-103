@@ -22,7 +22,7 @@ console.log(this.cat) // undefined
 ```
 
 
-## Slide 2: Let's scope
+## Slide 2: Let's scope
 
 `let` is blocked scoped (that means that let doesn’t care about local or global, it just cares about the {block} it is declared within). They are never globally registered.
 
@@ -64,7 +64,7 @@ function letScoping () {
 ```
 
 
-## Slide 4: Small test
+## Slide 4: Small test
 
 🤔 Will this work?
 
